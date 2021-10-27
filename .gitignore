@@ -1,0 +1,6 @@
+Valetudo
+robots/**
+log/**
+identity/**
+
+config/.env
